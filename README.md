@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=00F721&center=true&width=435&lines=Ol%C3%A1+me+chamo+Lucas!;%C2%A1Hola+me+llamo+Lucas!;Hello+my+name+is+Lucas!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&pause=1000&color=00F721&center=true&vCenter=true&width=435&lines=Ol%C3%A1+me+chamo+Lucas!;%C2%A1Hola+me+llamo+Lucas!;Hello+my+name+is+Lucas!" alt="Typing SVG" /></a>
 </div>
 
 <h1 data-importer="text" align="center">Welcome to my profile ✌️</h1>
