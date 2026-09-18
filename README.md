@@ -1,9 +1,9 @@
-<div data-importer="border">
+<div data-importer="border" align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=00F721&background=000000B7&center=true&width=435&lines=Ol%C3%A1+me+chamo+Lucas!;%C2%A1Hola+me+llamo+Lucas!;Hello+my+name+is+Lucas!" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=00F721&background=000000B7&center=true&width=435&lines=Ol%C3%A1+me+chamo+Lucas!;%C2%A1Hola+me+llamo+Lucas!;Hello+my+name+is+Lucas!" alt="Typing SVG" /></a>
 ###
 
 <h1 data-importer="text" align="center">Welcome to my profile ✌️</h1>
@@ -52,7 +52,7 @@
 ###
 
 
-<picture data-importer="pacman">
+<picture data-importer="pacman" align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasCruz1377/LucasCruz1377/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasCruz1377/LucasCruz1377/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasCruz1377/LucasCruz1377/pacman-output/galaga-contribution-graph.svg?game=galaga">
@@ -60,6 +60,6 @@
 
 ###
 
-<div data-importer="border">
+<div data-importer="border" align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
