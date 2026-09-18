@@ -3,6 +3,8 @@
 </div>
 
 ###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=00F721&background=000000B7&center=true&width=435&lines=Ol%C3%A1+me+chamo+Lucas!;%C2%A1Hola+me+llamo+Lucas!;Hello+my+name+is+Lucas!)](https://git.io/typing-svg)
+###
 
 <h1 data-importer="text" align="center">Welcome to my profile ✌️</h1>
 
